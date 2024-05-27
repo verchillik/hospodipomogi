@@ -17,7 +17,7 @@ int main(){
     for(auto &el : lst){
         cout << el << " ";
     }
-
+    cout << "2" << endl;
     cout << endl;
     return 0;
 }
