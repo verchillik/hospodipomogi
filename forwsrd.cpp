@@ -5,6 +5,8 @@
 using namespace std;
 
 int main(){
+
+    string str = "mi rabotali s githabom ya ustala pomogite";
     system("chcp 65001");
     forward_list<int> lst{2, -13, 0, 5, -2, 0, 3, 89};
     
